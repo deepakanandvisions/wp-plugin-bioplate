@@ -1,7 +1,7 @@
 {
   "name": "Wppb Online Generator",
   "description": "A wppb online generator",
-  "repository": "https://github.com/tmeister/wppb-gen",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "repository": "https://github.com/deepakanandvisions/wp-plugin-bioplate",
+  "logo": "",
   "keywords": ["node", "express", "static"]
 }
